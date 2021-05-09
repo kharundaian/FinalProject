@@ -16,6 +16,6 @@ Minesweeper also teaches you to carefully think out your decisions before you ma
 
 ![2021-05-09 (1)](https://user-images.githubusercontent.com/73739781/117581414-72515480-b11e-11eb-8f79-224607da49ba.png)
 
-#Trello Screenshot
+# Trello Screenshot
 
 ![2021-05-10](https://user-images.githubusercontent.com/73739781/117583493-3b347080-b129-11eb-8ab7-017b0d668d97.png)
