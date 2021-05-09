@@ -29,7 +29,6 @@ public class MayinTarlasi implements MouseListener {
 
         generateMine();
         updateCount();
-        //printMine();
 
         frame.setVisible(true);
     }
