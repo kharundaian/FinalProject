@@ -22,8 +22,4 @@ Minesweeper also teaches you to carefully think out your decisions before you ma
 
 # Figma Screenshot
 
-![2021-05-10 (8)](https://user-images.githubusercontent.com/73739781/117583940-d6c6e080-b12b-11eb-938d-a06166a32cd8.png)
-
-![2021-05-10 (9)](https://user-images.githubusercontent.com/73739781/117583946-de868500-b12b-11eb-88e6-5a75db6b8a2d.png)
-
-![2021-05-10 (10)](https://user-images.githubusercontent.com/73739781/117583954-e5ad9300-b12b-11eb-98b1-67f4e64687bb.png)
+![photo5242703258257044712](https://user-images.githubusercontent.com/73739781/117588113-3a103d00-b143-11eb-9b7b-5725d68f41a2.jpg)
