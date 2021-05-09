@@ -3,7 +3,6 @@ import javax.swing.JButton;
 public class Btn extends JButton{
     private int row,col,count;
     private boolean mine,flag;
-
     public Btn(int row, int col) {
         this.row = row;
         this.col = col;
@@ -31,7 +30,7 @@ public class Btn extends JButton{
     public int getCount() {
         return count;
     }
-
+    
     public void setCount(int count) {
         this.count = count;
     }
