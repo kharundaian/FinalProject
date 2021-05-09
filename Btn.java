@@ -7,6 +7,7 @@ public class Btn extends JButton{
         this.row = row;
         this.col = col;
         this.count = 0;
+        this.setBackground(Color.cyan);
         this.mine = false;
         this.flag = false;
     }
