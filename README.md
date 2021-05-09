@@ -1,6 +1,6 @@
 # FinalProject
 
-Minesweeper Game
+# Minesweeper Game
 
 ![world-of-minesweeper](https://user-images.githubusercontent.com/73739781/117581354-29010500-b11e-11eb-86c0-b5d17d31eee2.png)
 
