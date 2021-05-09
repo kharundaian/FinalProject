@@ -14,7 +14,7 @@ Minesweeper is single-player logic-based computer game played on rectangular boa
 
 Minesweeper also teaches you to carefully think out your decisions before you make them by tricking you into thinking that the games always follow a particular pattern. If you follow the patterns and get foolhardy, you may not notice when they are broken. Likewise, if you do not stop to question your decisions, it is probable that you will choose the wrong box and lose the game. When this happens to me, I usually realize that the correct answer was right in front of me in plain English. Had I stopped for ten seconds to think about the variables, I would not have lost.
 
-![2021-05-09 (1)](https://user-images.githubusercontent.com/73739781/117581414-72515480-b11e-11eb-8f79-224607da49ba.png)
+![2021-05-10 (12)](https://user-images.githubusercontent.com/73739781/117589836-ec4d0200-b14d-11eb-8498-4817e983e932.png)
 
 # Trello Screenshot
 
